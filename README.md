@@ -1,2 +1,1 @@
-# psychic-telegram
-Drum Kit to improve my
+Drum Kit to improve my JavaScript skills with the Event Listeners
